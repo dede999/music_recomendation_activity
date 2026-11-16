@@ -1,0 +1,351 @@
+trackId,title,durationSec,releaseYear,bpm,energy,isExplicit
+TRK001,Beyond Tempo,286,2023,121,0.79,false
+TRK002,Falling Sertão,274,2023,117,0.62,false
+TRK003,Waiting for Tokyo,190,2023,122,0.69,false
+TRK004,After the City,146,2023,111,0.83,false
+TRK005,Holding the Rain,146,2023,91,0.55,false
+TRK006,Noite de Baile,203,2025,78,0.48,true
+TRK007,After Horizonte,232,2025,117,0.79,false
+TRK008,Ritmo de Asfalto,149,2025,121,0.66,false
+TRK009,Holding Gravity,318,2025,106,0.85,false
+TRK010,Holding Baile,278,2025,77,0.44,true
+TRK011,Driving Mar,265,2025,91,0.43,false
+TRK012,Sem the Rain,199,2014,92,0.56,false
+TRK013,Lost in Saudade,331,2014,121,0.84,false
+TRK014,Chasing Mirage,263,2014,130,0.79,false
+TRK015,Under Baile,330,2014,100,0.56,true
+TRK016,Under Summer,155,2021,105,0.42,false
+TRK017,After Coração,177,2021,80,0.51,false
+TRK018,Driving Fire,230,2021,91,0.41,false
+TRK019,Under Glass,193,2021,76,0.39,false
+TRK020,Volta pra Midnight,153,2021,76,0.61,false
+TRK021,Entre Madrugada,159,2020,102,0.57,false
+TRK022,Driving Mirage,150,2020,115,0.51,false
+TRK023,Dancing Fire,198,2020,98,0.55,false
+TRK024,Na Beira Static,158,2020,113,0.65,false
+TRK025,Chasing Stars,150,2020,120,0.47,false
+TRK026,Waiting for Mirage,335,2020,117,0.64,false
+TRK027,Beyond Fire,273,2020,103,0.74,false
+TRK028,Chasing Midnight,195,2019,83,0.28,false
+TRK029,Entre Glass,279,2019,111,0.28,false
+TRK030,Dancing Saudade,300,2019,105,0.49,true
+TRK031,Vento no the Rain,160,2019,101,0.5,false
+TRK032,Beyond Summer,274,2019,87,0.4,false
+TRK033,Volta pra Sertão,304,2019,114,0.58,false
+TRK034,Waiting for Static,188,2019,107,0.31,false
+TRK035,Running the Rain,168,2016,97,0.56,true
+TRK036,Under the Rain,276,2020,142,0.76,true
+TRK037,Burning Midnight,225,2020,93,0.78,true
+TRK038,Driving Horizonte,180,2020,132,0.93,false
+TRK039,Waiting for Shadows,191,2025,132,0.95,false
+TRK040,Burning Silence,219,2025,127,0.73,false
+TRK041,Waiting for Summer,142,2025,121,0.87,false
+TRK042,Driving Summer,233,2016,113,0.75,false
+TRK043,Ritmo de Stars,319,2016,136,0.96,false
+TRK044,Dancing Summer,294,2016,102,0.86,false
+TRK045,Ecos de Silence,210,2016,121,0.68,false
+TRK046,Luz da Tempo,135,2016,139,0.87,false
+TRK047,Entre Horizonte,265,2016,114,0.7,false
+TRK048,Ecos de Shadows,220,2016,129,0.85,false
+TRK049,Beyond Tokyo,331,2015,105,0.74,false
+TRK050,Além do the City,327,2015,99,0.63,true
+TRK051,Vento no Stars,253,2015,101,0.68,false
+TRK052,Under Mirage,287,2015,119,0.63,false
+TRK053,Noite de Horizonte,256,2015,140,0.78,true
+TRK054,Noite de the Rain,273,2019,83,0.45,true
+TRK055,Ritmo de Gold,254,2019,84,0.69,true
+TRK056,Holding Coração,211,2019,104,0.71,false
+TRK057,Driving Asfalto,142,2019,111,0.62,true
+TRK058,Beyond Horizonte,156,2023,105,0.75,true
+TRK059,Waiting for the City,232,2023,81,0.51,true
+TRK060,Driving Gravity,224,2023,110,0.56,true
+TRK061,Vento no Tokyo,196,2023,92,0.83,true
+TRK062,Entre Fire,290,2023,84,0.62,true
+TRK063,Vento no Shadows,282,2023,74,0.55,false
+TRK064,Under Voz,145,2013,75,0.63,false
+TRK065,Burning the Rain,162,2013,68,0.65,false
+TRK066,Noite de Voz,301,2013,107,0.61,true
+TRK067,Entre Gravity,250,2019,96,0.53,false
+TRK068,Sem Saudade,181,2019,108,0.21,false
+TRK069,Waiting for Neon,183,2019,100,0.42,false
+TRK070,Além do Asfalto,337,2019,102,0.51,false
+TRK071,Holding Voz,276,2019,91,0.52,false
+TRK072,Ecos de Asfalto,199,2019,110,0.48,false
+TRK073,Fading Static,320,2019,84,0.34,false
+TRK074,Inside Glass,167,2013,87,0.32,false
+TRK075,Volta pra Coração,255,2023,78,0.55,false
+TRK076,Holding Madrugada,173,2013,166,0.93,true
+TRK077,Sem Glass,285,2024,133,0.92,false
+TRK078,Sem Midnight,202,2024,190,0.95,false
+TRK079,Na Beira the Rain,255,2024,130,0.89,false
+TRK080,Ritmo de Silence,336,2024,109,0.86,false
+TRK081,Dancing Stars,203,2024,164,0.86,true
+TRK082,Inside Horizonte,314,2024,133,0.69,false
+TRK083,Na Beira Madrugada,323,2024,110,0.83,false
+TRK084,Entre Tokyo,255,2025,118,0.56,false
+TRK085,After Madrugada,176,2021,113,0.66,false
+TRK086,Inside Saudade,157,2021,126,0.8,true
+TRK087,Vento no the City,227,2021,134,0.79,false
+TRK088,Noite de Coração,208,2021,118,0.75,false
+TRK089,Under Tokyo,239,2021,115,0.76,true
+TRK090,Beyond Madrugada,258,2021,116,0.78,false
+TRK091,Som de Tempo,241,2015,96,0.68,false
+TRK092,Beyond Mirage,231,2016,111,0.66,false
+TRK093,Dancing Voz,240,2016,128,0.71,false
+TRK094,Ritmo de the City,173,2016,121,0.81,false
+TRK095,Entre Neon,138,2016,120,0.63,false
+TRK096,Fading Horizonte,307,2013,120,0.58,false
+TRK097,Fading Baile,195,2013,127,0.73,false
+TRK098,Falling Tempo,315,2013,119,0.89,false
+TRK099,Lost in Midnight,245,2013,125,0.57,false
+TRK100,Entre Saudade,232,2013,102,0.65,false
+TRK101,Entre Gold,305,2013,121,0.79,false
+TRK102,Entre Silence,233,2014,108,0.74,false
+TRK103,Entre Summer,236,2014,110,0.61,false
+TRK104,Luz da Coração,208,2014,123,0.74,false
+TRK105,Burning Glass,331,2014,124,0.58,false
+TRK106,Volta pra Static,228,2014,104,0.75,true
+TRK107,Fading Tempo,228,2014,103,0.66,false
+TRK108,Além do Silence,328,2016,99,0.74,true
+TRK109,Holding Tokyo,326,2025,142,0.78,true
+TRK110,Além do Tokyo,253,2017,144,0.8,true
+TRK111,Driving Static,261,2017,121,0.97,false
+TRK112,Na Beira Gold,313,2017,139,0.83,false
+TRK113,Ecos de Tempo,292,2017,133,0.89,false
+TRK114,Running Voz,227,2017,131,0.84,false
+TRK115,Dancing Static,287,2017,127,0.89,true
+TRK116,Falling Gold,285,2017,122,0.94,false
+TRK117,Fading Coração,172,2017,145,0.95,true
+TRK118,Chasing Static,195,2017,124,0.72,false
+TRK119,Running Gold,249,2017,141,0.77,true
+TRK120,Som de Glass,268,2017,143,0.92,false
+TRK121,Under Madrugada,172,2025,67,0.35,false
+TRK122,Volta pra Mar,251,2025,77,0.38,false
+TRK123,Ritmo de Static,221,2025,120,0.38,false
+TRK124,Ecos de Static,174,2025,78,0.19,false
+TRK125,After the Rain,168,2025,120,0.24,false
+TRK126,Na Beira Asfalto,305,2025,86,0.13,false
+TRK127,Ecos de Midnight,264,2025,84,0.19,false
+TRK128,Burning Static,278,2017,83,0.16,false
+TRK129,Ritmo de Gravity,221,2020,101,0.5,false
+TRK130,Volta pra Tokyo,222,2020,123,0.48,false
+TRK131,After Midnight,155,2020,100,0.66,true
+TRK132,Além do Horizonte,164,2020,78,0.18,false
+TRK133,Além do Sertão,149,2020,66,0.16,false
+TRK134,Dancing Coração,262,2020,106,0.5,true
+TRK135,Na Beira Voz,225,2020,122,0.6,false
+TRK136,Fading Mar,209,2012,83,0.21,false
+TRK137,Chasing Horizonte,246,2012,91,0.29,false
+TRK138,Entre the City,191,2012,115,0.7,false
+TRK139,Som de Sertão,300,2012,112,0.52,false
+TRK140,Beyond Gravity,302,2012,101,0.61,false
+TRK141,Luz da Mar,247,2019,92,0.37,false
+TRK142,Inside Gravity,250,2019,112,0.58,false
+TRK143,Inside the Rain,283,2019,129,0.61,false
+TRK144,Running Mirage,150,2019,110,0.61,false
+TRK145,Falling Voz,228,2020,158,0.91,false
+TRK146,Driving Coração,300,2020,173,0.92,false
+TRK147,Na Beira Saudade,289,2020,148,0.86,false
+TRK148,Inside Baile,214,2014,138,0.92,false
+TRK149,Volta pra Saudade,181,2022,141,0.83,true
+TRK150,Vento no Madrugada,210,2022,107,0.88,false
+TRK151,Ecos de Sertão,168,2022,121,0.66,false
+TRK152,Ecos de Mirage,248,2024,113,0.67,false
+TRK153,Noite de Mirage,176,2015,144,0.82,false
+TRK154,Running Baile,267,2015,131,0.86,false
+TRK155,Som de Gold,250,2015,122,0.97,false
+TRK156,Driving Midnight,155,2015,136,0.82,false
+TRK157,Ritmo de Baile,255,2015,145,0.76,true
+TRK158,Além do Mirage,173,2015,85,0.56,true
+TRK159,Inside Static,252,2013,95,0.69,false
+TRK160,Na Beira Tokyo,225,2013,89,0.65,true
+TRK161,Luz da Saudade,269,2013,113,0.87,true
+TRK162,Holding Summer,223,2018,88,0.1,false
+TRK163,Running Summer,310,2023,91,0.28,false
+TRK164,Volta pra Shadows,144,2023,122,0.91,false
+TRK165,Running Neon,256,2023,81,0.21,false
+TRK166,Fading Gravity,325,2017,145,0.82,false
+TRK167,Waiting for the Rain,181,2023,77,0.42,false
+TRK168,After Neon,177,2023,91,0.43,false
+TRK169,Running Tempo,337,2023,111,0.65,false
+TRK170,Luz da Shadows,247,2023,94,0.77,false
+TRK171,Burning Summer,250,2023,108,0.26,false
+TRK172,Som de Summer,164,2023,92,0.51,false
+TRK173,Holding Asfalto,189,2023,101,0.75,false
+TRK174,Noite de Shadows,216,2015,77,0.57,false
+TRK175,Inside Silence,192,2015,125,0.56,false
+TRK176,Falling Madrugada,340,2015,108,0.68,false
+TRK177,After Silence,282,2015,102,0.46,false
+TRK178,Volta pra the Rain,334,2015,101,0.52,false
+TRK179,Under Sertão,316,2026,124,0.72,false
+TRK180,Volta pra Asfalto,158,2025,76,0.57,false
+TRK181,Beyond Shadows,155,2025,104,0.36,false
+TRK182,Volta pra Fire,209,2025,69,0.52,false
+TRK183,Falling Saudade,175,2025,87,0.51,false
+TRK184,Dancing Neon,223,2025,125,0.9,false
+TRK185,Under Midnight,175,2017,92,0.65,false
+TRK186,Ecos de Neon,262,2017,102,0.75,false
+TRK187,Som de Mirage,207,2017,105,0.78,true
+TRK188,Under Stars,228,2017,108,0.82,false
+TRK189,Burning Asfalto,275,2017,72,0.49,false
+TRK190,Fading Asfalto,263,2013,77,0.42,false
+TRK191,Fading Madrugada,218,2013,77,0.56,false
+TRK192,Holding Horizonte,271,2013,105,0.47,false
+TRK193,Burning Neon,320,2013,118,0.78,false
+TRK194,Sem Madrugada,284,2013,105,0.55,false
+TRK195,Beyond Saudade,183,2024,94,0.77,false
+TRK196,Além do Tempo,218,2018,150,0.69,true
+TRK197,Holding Neon,225,2018,134,0.92,false
+TRK198,Luz da Baile,206,2018,129,0.57,false
+TRK199,Inside Coração,257,2018,103,0.64,false
+TRK200,Ecos de Gravity,236,2018,97,0.6,false
+TRK201,Beyond Silence,248,2018,123,0.94,true
+TRK202,Na Beira Gravity,196,2018,98,0.44,false
+TRK203,Driving Neon,275,2022,96,0.64,true
+TRK204,Além do Madrugada,300,2022,153,0.94,false
+TRK205,Falling Asfalto,144,2022,116,0.78,false
+TRK206,Além do Shadows,162,2022,92,0.4,false
+TRK207,Na Beira Sertão,184,2022,98,0.7,false
+TRK208,Inside Mar,238,2016,91,0.75,true
+TRK209,Luz da Static,136,2016,88,0.71,false
+TRK210,Vento no Gravity,201,2016,134,0.87,true
+TRK211,Holding Saudade,210,2013,147,0.77,false
+TRK212,Ecos de Horizonte,328,2013,138,0.9,false
+TRK213,Vento no Horizonte,154,2013,113,0.7,false
+TRK214,Som de Fire,164,2013,90,0.66,true
+TRK215,Além do the Rain,241,2013,150,0.76,true
+TRK216,Ecos de Fire,273,2018,82,0.69,false
+TRK217,Running Silence,321,2018,130,0.91,false
+TRK218,Holding Mirage,273,2018,137,0.77,false
+TRK219,Under Shadows,135,2018,141,0.78,false
+TRK220,Noite de Saudade,252,2018,142,0.83,true
+TRK221,Falling Fire,307,2012,67,0.32,false
+TRK222,Beyond Sertão,216,2015,72,0.33,false
+TRK223,Fading Glass,240,2015,69,0.38,false
+TRK224,Além do Midnight,216,2015,85,0.29,false
+TRK225,Inside the City,211,2015,123,0.27,false
+TRK226,Running Asfalto,197,2015,78,0.26,false
+TRK227,Running Gravity,153,2025,86,0.27,false
+TRK228,Ecos de Saudade,212,2025,116,0.16,false
+TRK229,Ecos de Coração,236,2025,72,0.29,false
+TRK230,Vento no Silence,201,2025,79,0.25,false
+TRK231,Noite de Static,229,2025,89,0.34,false
+TRK232,Ecos de Gold,319,2025,88,0.3,false
+TRK233,Falling the City,221,2025,118,0.3,false
+TRK234,Chasing Asfalto,306,2023,105,0.26,false
+TRK235,Volta pra Glass,230,2023,81,0.25,false
+TRK236,Luz da Madrugada,139,2023,72,0.46,false
+TRK237,Luz da Stars,196,2020,78,0.62,false
+TRK238,Burning the City,310,2016,96,0.6,false
+TRK239,Holding the City,156,2016,72,0.45,false
+TRK240,Running Glass,154,2016,108,0.44,true
+TRK241,Lost in Fire,154,2026,144,0.93,false
+TRK242,Fading the City,263,2022,145,0.98,false
+TRK243,Sem the City,250,2015,131,0.93,false
+TRK244,Sem Silence,317,2022,72,0.38,true
+TRK245,Fading Summer,227,2022,73,0.35,true
+TRK246,Noite de Asfalto,158,2022,103,0.56,false
+TRK247,Inside Stars,197,2022,124,0.58,false
+TRK248,Beyond the Rain,335,2016,95,0.45,true
+TRK249,Volta pra Madrugada,236,2016,97,0.39,true
+TRK250,Fading Mirage,287,2016,113,0.82,false
+TRK251,Ritmo de Fire,216,2016,110,0.61,false
+TRK252,Além do Mar,235,2016,88,0.48,false
+TRK253,Dancing Mar,316,2016,103,0.36,false
+TRK254,Waiting for Saudade,288,2022,112,0.75,true
+TRK255,Som de Voz,314,2022,117,0.56,false
+TRK256,Under Coração,279,2022,107,0.55,false
+TRK257,Fading Stars,326,2022,85,0.53,false
+TRK258,Noite de Summer,263,2022,114,0.8,false
+TRK259,Além do Static,321,2022,113,0.85,true
+TRK260,Noite de Fire,313,2022,111,0.71,false
+TRK261,Ecos de Glass,253,2012,120,0.55,false
+TRK262,Lost in Tempo,315,2022,113,0.69,false
+TRK263,Ritmo de the Rain,252,2022,119,0.56,false
+TRK264,Volta pra Neon,225,2022,119,0.68,true
+TRK265,Luz da Voz,169,2022,129,0.75,true
+TRK266,Beyond Mar,312,2023,119,0.27,false
+TRK267,Chasing Madrugada,293,2023,82,0.27,false
+TRK268,Lost in Madrugada,264,2023,71,0.33,false
+TRK269,Além do Stars,338,2023,127,0.27,false
+TRK270,Waiting for Glass,332,2023,86,0.51,false
+TRK271,Under Mar,228,2023,73,0.32,false
+TRK272,Under Tempo,202,2020,74,0.34,false
+TRK273,Vento no Glass,316,2020,90,0.31,false
+TRK274,Sem Gold,224,2020,91,0.16,false
+TRK275,Chasing Neon,266,2020,102,0.43,false
+TRK276,Under Gold,167,2020,72,0.6,false
+TRK277,Ritmo de Neon,171,2020,89,0.34,false
+TRK278,Waiting for Voz,135,2024,134,0.94,false
+TRK279,Na Beira the City,217,2023,157,0.96,false
+TRK280,Fading Saudade,252,2023,132,0.84,false
+TRK281,Noite de Tokyo,301,2023,117,0.95,false
+TRK282,Volta pra Summer,177,2023,110,0.76,false
+TRK283,Ecos de Voz,135,2023,157,0.93,false
+TRK284,Driving Voz,322,2019,115,0.57,false
+TRK285,Inside Gold,152,2019,98,0.62,false
+TRK286,Burning Tempo,292,2019,120,0.8,false
+TRK287,After Static,224,2019,124,0.59,false
+TRK288,Beyond Glass,319,2019,95,0.49,false
+TRK289,Ritmo de Tokyo,326,2019,103,0.58,false
+TRK290,Holding Static,138,2019,115,0.76,true
+TRK291,Chasing Coração,202,2018,94,0.41,true
+TRK292,Holding Sertão,243,2018,130,0.65,false
+TRK293,Na Beira Horizonte,187,2018,108,0.58,true
+TRK294,Holding Mar,196,2018,109,0.78,false
+TRK295,Sem Horizonte,179,2018,109,0.77,false
+TRK296,Burning Sertão,203,2018,100,0.53,false
+TRK297,Waiting for Sertão,154,2018,108,0.79,false
+TRK298,Vento no Static,138,2014,106,0.82,true
+TRK299,Holding Gold,324,2014,94,0.77,false
+TRK300,Falling Stars,165,2014,97,0.82,true
+TRK301,Chasing Glass,207,2014,117,0.62,false
+TRK302,After Asfalto,335,2014,80,0.67,true
+TRK303,Vento no Coração,136,2014,126,0.83,true
+TRK304,Holding Tempo,242,2017,86,0.62,false
+TRK305,Burning Mirage,235,2017,98,0.75,false
+TRK306,Driving Saudade,340,2017,107,0.69,false
+TRK307,Fading Neon,169,2017,97,0.63,false
+TRK308,Beyond Static,272,2017,120,0.74,false
+TRK309,Noite de Silence,310,2017,96,0.83,true
+TRK310,Ritmo de Glass,201,2017,105,0.72,true
+TRK311,Entre Mar,300,2015,72,0.36,true
+TRK312,Noite de Midnight,262,2015,108,0.42,false
+TRK313,Chasing Summer,173,2015,83,0.36,false
+TRK314,Falling Baile,150,2015,99,0.49,false
+TRK315,Burning Madrugada,234,2015,90,0.67,false
+TRK316,Waiting for Midnight,194,2026,101,0.48,false
+TRK317,Burning Shadows,313,2025,127,0.87,false
+TRK318,Ritmo de Voz,183,2025,126,0.6,false
+TRK319,Inside Shadows,191,2025,92,0.43,false
+TRK320,Fading Voz,140,2015,145,0.94,false
+TRK321,Burning Voz,169,2025,109,0.29,false
+TRK322,Driving Baile,278,2025,113,0.38,false
+TRK323,Chasing the City,314,2025,90,0.3,false
+TRK324,Vento no Mar,291,2025,116,0.83,false
+TRK325,Além do Gold,177,2025,76,0.35,false
+TRK326,Waiting for Fire,162,2022,149,0.67,false
+TRK327,Ecos de Stars,274,2022,131,0.8,false
+TRK328,Entre Baile,143,2022,115,0.79,false
+TRK329,Fading Shadows,158,2022,82,0.54,false
+TRK330,Driving Shadows,239,2018,103,0.66,false
+TRK331,Falling Static,174,2016,112,0.74,false
+TRK332,Volta pra Horizonte,298,2016,117,0.68,true
+TRK333,Luz da Gravity,232,2016,120,0.73,false
+TRK334,Noite de Gravity,327,2016,126,0.64,true
+TRK335,Som de Stars,155,2015,166,0.97,false
+TRK336,Running Sertão,177,2015,87,0.86,true
+TRK337,Beyond Midnight,295,2015,135,0.99,true
+TRK338,Lost in Voz,285,2015,137,0.89,true
+TRK339,Na Beira Summer,290,2021,146,0.89,false
+TRK340,Running the City,203,2021,174,0.86,false
+TRK341,Além do Voz,248,2021,94,0.59,false
+TRK342,Sem Baile,239,2021,92,0.7,false
+TRK343,Ritmo de Sertão,280,2025,138,0.95,false
+TRK344,Noite de Sertão,196,2025,170,0.98,false
+TRK345,Entre Asfalto,326,2025,152,0.85,false
+TRK346,Holding Midnight,308,2025,93,0.83,true
+TRK347,Som de Tokyo,288,2025,110,0.85,true
+TRK348,Volta pra Gravity,190,2023,132,0.94,false
+TRK349,Waiting for Baile,301,2013,128,0.79,false
+TRK350,Falling Midnight,141,2013,141,0.8,false
